@@ -1,0 +1,18 @@
+.tab-item-container {
+  margin-right: 15px;
+  list-style-type: none;
+}
+.button {
+  border: none;
+  background-color: transparent;
+}
+.tab-item {
+  color: #7b8794;
+  font-size: 24px;
+  font-family: 'Roboto';
+}
+.selected {
+  color: #2563eb;
+  text-decoration: underline;
+  font-size: 29px;
+}
